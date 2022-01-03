@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Hsin Yi Chen</title>
-	<atom:link href="https://hc734.github.io/hsinyi-chen/feed/" rel="self" type="application/rss+xml" />
-	<link>https://hc734.github.io/hsinyi-chen/</link>
+	<atom:link href="https://www.hsinyi-chen.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.hsinyi-chen.com/</link>
 	<description>MD-PhD student</description>
 	<lastBuildDate>Sat, 01 Jan 2022 22:01:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://hc734.github.io/hsinyi-chen/hello-world/</link>
-					<comments>https://hc734.github.io/hsinyi-chen/hello-world/#comments</comments>
+		<link>https://www.hsinyi-chen.com/hello-world/</link>
+					<comments>https://www.hsinyi-chen.com/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[hsinyi_chen]]></dc:creator>
 		<pubDate>Sat, 01 Jan 2022 22:01:57 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://hc734.github.io/hsinyi-chen/?p=1</guid>
+		<guid isPermaLink="false">https://www.hsinyi-chen.com/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hc734.github.io/hsinyi-chen/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.hsinyi-chen.com/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
